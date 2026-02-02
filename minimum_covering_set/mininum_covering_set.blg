@@ -1,0 +1,9 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'mininum_covering_set.blg'
+[70] biber-darwin:340> INFO - === Mon Feb  2, 2026, 15:46:44
+[83] Biber.pm:420> INFO - Reading 'mininum_covering_set.bcf'
+[156] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[169] bbl.pm:676> INFO - Writing 'mininum_covering_set.bbl' with encoding 'UTF-8'
+[169] bbl.pm:779> INFO - Output to mininum_covering_set.bbl
+[169] Biber.pm:131> WARN - The file 'mininum_covering_set.bcf' does not contain any citations!
+[169] Biber.pm:133> INFO - WARNINGS: 1
